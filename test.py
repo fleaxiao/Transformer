@@ -17,6 +17,7 @@ DECAY_EPOCH = 30
 DECAY_RATIO = 0.95
 
 # Neural Network Structure
+input_size = 15
 input_size = 13
 output_size = 24
 hidden_size = 100 #! 1000
